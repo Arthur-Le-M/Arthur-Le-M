@@ -1,6 +1,6 @@
 <p align = "center">
   <samp>
-    ** Arthur Le Menn **
+    <h1> Arthur Le Menn </h1>
     
   </samp>
 </p>
