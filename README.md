@@ -1,7 +1,5 @@
 <p align = "center">
-  <samp>
     <h1> Arthur Le Menn </h1>
-  </samp>
   <br>
   <h2> Présentation </h2>
   <p> Je suis Arthur Le Menn, étudiant en première année de BUT Informatique à l'IUT de Bayonne et du Pays Basque. <br>
