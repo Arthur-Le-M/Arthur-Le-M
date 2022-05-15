@@ -9,3 +9,5 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-Le-M&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Le-M)](https://github.com/anuraghazra/github-readme-stats)
