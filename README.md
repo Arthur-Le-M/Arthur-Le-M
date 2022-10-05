@@ -1,5 +1,3 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Arthur%20Le Menn%20👨‍🎓&width=800&height=400)](https://github.com/Akshay090/svg-banners)
-
 <p align = "center">
     <h1> Arthur Le Menn </h1>
   <br>
