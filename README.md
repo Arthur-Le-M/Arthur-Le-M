@@ -2,7 +2,7 @@
     <h1> Arthur Le Menn </h1>
   <br>
   <h2> Présentation </h2>
-  <p> Je suis Arthur Le Menn, étudiant en deuxième année de BUT Informatique à l'IUT de Bayonne et du Pays Basque. <br>
+  <p> Je suis Arthur Le Menn, étudiant en double diplômes à l'UQAC. <br>
   Les domaines de programmation qui m'intéressent sont : les jeux vidéo et le web. </p>
 </p>
 
